@@ -8,7 +8,7 @@
 		<version>2.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.javatechie</groupId>
+	<groupId>com.adominguez</groupId>
 	<artifactId>webflux-openapi3</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>webflux-openapi3</name>
